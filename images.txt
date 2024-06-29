@@ -1,6 +1,7 @@
-mysql:8.4.0
-redislabs/redisinsight:2.50
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#mysql:8.4.0
+#redislabs/redisinsight:2.50
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+#支持指定架构
+#--platform=linux/arm64 xiaoyaliu/alist
+btpanel/baota:lib
