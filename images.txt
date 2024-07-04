@@ -4,4 +4,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-btpanel/baota:lib
+#btpanel/baota:lib
+
+redis/redis-stack:6.2.6-v13
