@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 ##btpanel/baota:lib
-mongo:4.4.25
+rancher/rancher-agent:v2.7.1
