@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 ##btpanel/baota:lib
-elasticsearch:6.8.15
+cars10/elasticvue:1.0.8
