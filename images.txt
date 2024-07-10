@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 ##btpanel/baota:lib
 
-gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard:v0.42.0
+maven:3.9.8-eclipse-temurin-8-alpine
