@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 ##btpanel/baota:lib
 
-gcr.io/cloud-builders/mvn:latest
+gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard:v0.42.0
