@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 ##btpanel/baota:lib
 
-tektoncd/pipeline/cmd/git-init:v0.40.2
+gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.40.2
