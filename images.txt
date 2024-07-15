@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 ##btpanel/baota:lib
 
-dreamacro/clash:v1.18.0
+linuxserver/calibre-web:0.6.22
