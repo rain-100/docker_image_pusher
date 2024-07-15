@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 ##btpanel/baota:lib
 
-maven:3.9.8-eclipse-temurin-8-alpine
+dreamacro/clash:v1.18.0
