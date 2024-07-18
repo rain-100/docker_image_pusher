@@ -6,6 +6,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 ##btpanel/baota:lib
 
-node:20.15.1-alpine3.20
+node:18.20.3-alpine3.20
+
+#node:20.15.1-alpine3.20
 
 # linuxserver/calibre-web:0.6.22
