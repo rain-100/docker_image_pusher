@@ -1,5 +1,6 @@
 # freeswitch
-debian:bookworm
+#debian:bookworm
+library/debian:bullseye
 
 
 #mysql:8.4.0
