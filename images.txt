@@ -1,14 +1,15 @@
 # docker 多架构镜像构建
-tonistiigi/binfmt:latest
+#tonistiigi/binfmt:latest
+moby/buildkit:buildx-stable-1
 
 # argocd
-quay.io/argoproj/argocd:v2.12.0
-ghcr.io/dexidp/dex:v2.38.0
-library/redis:7.0.15-alpine
+#quay.io/argoproj/argocd:v2.12.0
+#ghcr.io/dexidp/dex:v2.38.0
+#library/redis:7.0.15-alpine
 
 # freeswitch
 #debian:bookworm
-library/debian:bullseye
+#library/debian:bullseye
 
 
 #mysql:8.4.0
