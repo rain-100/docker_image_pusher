@@ -3,14 +3,17 @@
 #moby/buildkit:buildx-stable-1
 
 # argocd
+### v2.12.0
 #quay.io/argoproj/argocd:v2.12.0
 #ghcr.io/dexidp/dex:v2.38.0
 #library/redis:7.0.15-alpine
+### v2.12.2
+quay.io/argoproj/argocd:v2.12.2
 
 # freeswitch
 #debian:bookworm
 #library/debian:bullseye
---platform=linux/arm64 library/debian:bullseye
+#--platform=linux/arm64 library/debian:bullseye
 
 #mysql:8.4.0
 #redislabs/redisinsight:2.50
