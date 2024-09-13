@@ -1,3 +1,7 @@
+# suntekmap-gl-native
+library/ubuntu:22.04
+--platform=linux/arm64 library/ubuntu:22.04
+
 # docker 多架构镜像构建
 #tonistiigi/binfmt:latest
 #moby/buildkit:buildx-stable-1
@@ -8,7 +12,7 @@
 #ghcr.io/dexidp/dex:v2.38.0
 #library/redis:7.0.15-alpine
 ### v2.12.2
-quay.io/argoproj/argocd:v2.12.2
+#quay.io/argoproj/argocd:v2.12.2
 
 # freeswitch
 #debian:bookworm
