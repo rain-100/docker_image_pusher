@@ -1,6 +1,10 @@
+# base tool image
+library/alpine:3.20.3
+--platform=linux/arm64 library/alpine:3.20.3
+
 # suntekmap-gl-native
-library/ubuntu:22.04
---platform=linux/arm64 library/ubuntu:22.04
+#library/ubuntu:22.04
+#--platform=linux/arm64 library/ubuntu:22.04
 
 # docker 多架构镜像构建
 #tonistiigi/binfmt:latest
